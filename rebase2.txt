@@ -1,1 +1,2 @@
-Cambio hecho DESDE main
+ HEAD
+Linea final combinada desde main y rama-rebase2
