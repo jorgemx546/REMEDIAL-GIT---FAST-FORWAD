@@ -1,2 +1,2 @@
-Linea modificada DESDE main
-Linea ORIGINAL
+ HEAD
+Linea final combinada desde main y rama-conflicto3
